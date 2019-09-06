@@ -4,8 +4,8 @@
 
 **Music store**
 
-The database titled "chinook.db" is a subset of the Chinook sample data available at: https://github.com/lerocha/chinook-database
-
+The database titled "chinook.db" is a subset of the Chinook sample data available at: 
+https://github.com/lerocha/chinook-database
 It has been created using real data from iTunes. I used an SQlite server since the database is light-weight. 
 
 It contains 11 tables that I worked with. You can refer to the schema below:-
