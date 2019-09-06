@@ -1,6 +1,6 @@
 # SQL-complex-Running-my-own-music-store
 
-#### A project in a question-answer format which explores how we can answer key business questions for an online music store.
+### A project in a question-answer format which explores how we can answer key business questions for an online music store.
 
 **Music store**
 
